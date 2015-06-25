@@ -1,3 +1,10 @@
+# project specific settings
+
+#no databases!
+*.db
+
+
+
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion
 
 *.iml
